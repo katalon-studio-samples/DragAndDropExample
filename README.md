@@ -1,0 +1,1 @@
+Example project for drag and drop testing with Katalon Studio
